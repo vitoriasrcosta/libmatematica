@@ -1,0 +1,4 @@
+Passo a Passo:
+
+1 - Copia a URL do meu repositório (https://github.com/vitoriasrcosta/libmatematica.git);
+2 - Abrir o terminal e executar o seguinte comando: git clone <URL_DO_REPOSITORIO>;
